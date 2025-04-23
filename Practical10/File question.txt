@@ -1,0 +1,4 @@
+
+Draw a boxplot of DALYs across countries in 1990.
+Line 31 to 34 are used to solve the problem.
+Line 10 to 15 created necessary things for the code.
