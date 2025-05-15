@@ -20,7 +20,7 @@ Compare mouse to random:
 score=-171, percentage=0.06306306306306306
     Alignment:
     MLCRAACSTGRRLGPVAGAAGSRHKHSLPDLPYDYGALEPHINAQIMQLHHSKHHAAYVNNLNATEEKYHEALAKGDVTTQVALQPALKFNGGGHINHTIFWTNLSPKGGGEPKGELLEAIKRDFGSFEKFKEKLTAVSVGVQGSGWGWLGFNKEQGRLQIAACSNQDPLQGTTGLIPLLGIDVWEHAYYLQYKNVRPDYLKAIWNVINWENVTERYTACKK
-    |                                        |                            |          |          |                 |            | |        |             |                     |                                          ||| 
+        |                                        |                            |          |          |                 |            | |        |             |                     |                                          ||| 
     DEHNAVYHRFWKGDRGMSCCRGCRIWITMEEMNEIPKRCDKSQIPIHNNYARQYMEEKEMDVYKQRTMNWSGTMKECDYKAFNPKPGWSARAQNTVNSIMWLKLEDESWHPDFRGGPAKSKATVYCGFSKMFFWTIGGSSVMSCCDACVEYNNYSMITKTGGDHYHKLCRSAGFGQFNHERWGEVNRNLQSEHRYCFRQWISLMFHGGTSHVTQLHWTACVS
 #Sorry the alignment fails to show directly.
 
