@@ -75,10 +75,6 @@ def sax():
     print('SAX API:')
     for namespa in ['molecular_function','biological_process','cellular_component']:
         print(f'{namespa}: id:{handler.max_terms[namespa]['id']}, name:{handler.max_terms[namespa]['name']}, count:{handler.max_terms[namespa]['count']}')
-
-
-    #print(handler.max_terms)
-
     stop_time=datetime.datetime.now()
     duration=(stop_time-start_time).total_seconds()
     print('Duration:',duration)
