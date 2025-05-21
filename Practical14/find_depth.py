@@ -51,7 +51,6 @@ def sax():
                 self.id=''
         def endElement(self,tag):
             if tag=='term':
-                #print(self.namespace)
                 if self.namespace in self.max_terms:
                     if self.is_a_count>self.max_terms[self.namespace]["count"]:
                         self.max_terms[self.namespace]["id"] = self.id
